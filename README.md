@@ -2,6 +2,10 @@
 Add colored branches on your terminal
 
 1. Locate your .bashrc
+```bash
+# Yes I use nano...
+nano ~/.bashrc 
+```
 2. Between the lines:
 ```bash
 if [ "$color_prompt" = yes ]; then
