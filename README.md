@@ -6,7 +6,7 @@ Add colored branches on your terminal
 # Yes I use nano...
 nano ~/.bashrc 
 ```
-2. Insert this.
+2. Copy this.
  
  ```bash
     export GIT_PS1_SHOWDIRTYSTATE=1 GIT_PS1_SHOWSTASHSTATE=1 GIT_PS1_SHOWUNTRACKEDFILES=1
